@@ -1,0 +1,92 @@
+
+
+.head{
+    text-align: center;
+    position: relative;
+}
+
+h2{
+    font-weight: 900;
+    font-size: 80px;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 75px;
+    margin-bottom: 20px;
+
+}
+
+h3{
+    font-weight: 900;
+    font-size: 65px;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 65px;
+    margin-bottom: 20px;
+}
+
+.subhead{
+    text-transform: uppercase;
+    border-bottom: 2px solid #2f2f2f;
+    border-top: 2px solid #2f2f2f;
+}
+
+.link{
+
+    padding-top: 8px;
+    border-bottom: 2px solid #2f2f2f;
+    padding-bottom: 8px;
+}
+a{
+    text-decoration: none;
+    color: #2f2f2f;
+}
+
+a:hover{
+    color: red;
+}
+
+
+.main-topic{
+    padding-top: 8px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img{
+    border: 2px solid black;
+}
+
+
+p{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 3px;
+    font-size: 30px;
+}
+
+.information{
+    padding-left: 10px;
+    font-size: 1.2em;
+}
+
+
+/* Skills */
+
+.left1{
+    text-align: center;
+    padding-right: 30px;
+    font-size: 30px;
+}
+.right1{
+    text-align: center;
+    padding: right;
+    font-size: 30px;
+}
+
+/* footer */
+.footer{
+    border-top: 2px solid #2f2f2f;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.3em;
+}
